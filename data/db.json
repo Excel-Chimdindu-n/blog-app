@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Intro Blog",
+      "id": 1,
+      "author": "Excel",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam fuga autem voluptas unde deleniti laudantium nisi quia alias vel necessitatibus, at nam nemo quibusdam! Reiciendis voluptate quod ducimus dolorum facere!"
+    },
+    {
+      "title": "React Blogs 1 ",
+      "id": 2,
+      "author": "Predator",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam fuga autem voluptas unde deleniti laudantium nisi quia alias vel necessitatibus, at nam nemo quibusdam! Reiciendis voluptate quod ducimus dolorum facere!"
+    },
+    {
+      "title": "Harry Porter",
+      "content": "Omo na new game on point. Get ur's now",
+      "author": "Loner",
+      "id": 3
+    },
+    {
+      "title": "Publish @) LoneWolf.com",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora enim placeat non similique! Harum autem est eligendi, cum ut quia nostrum. Laudantium ipsum modi eius? Praesentium, laboriosam beatae optio cupiditate nihil, numquam aspernatur eum quaerat velit sequi, fuga voluptas quibusdam corporis earum accusantium magni odio quisquam eos alias? Accusantium quasi facilis eligendi id beatae velit excepturi magni qui cupiditate commodi error veritatis, ullam labore accusamus ab recusandae perspiciatis at! Cum ipsum velit nemo repellat eum officia autem, iure quas? Saepe, quod suscipit explicabo deserunt numquam assumenda veritatis necessitatibus possimus doloremque similique nostrum quaerat inventore reiciendis debitis voluptatem quae consequatur aspernatur?",
+      "author": "Predator",
+      "id": 4
+    }
+  ]
+}
